@@ -1,0 +1,16 @@
+{
+  "filters": {
+    "allowlist": {
+      "allowlistConfigPaths": [
+          "./allowlist/allow.json"
+      ]
+    }
+  },
+  "rules": {
+    "prh": {
+      "rulePaths" :[
+          "./prh/prh.yml"
+      ]
+    }
+  }
+}

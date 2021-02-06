@@ -1,0 +1,10 @@
+{
+  "name": "alowlist",
+  "license": "private",
+  "devDependencies": {},
+  "dependencies": {
+    "textlint": "^11.7.7",
+    "textlint-filter-rule-allowlist": "^2.0.1",
+    "textlint-rule-prh": "^5.3.0"
+  }
+}
